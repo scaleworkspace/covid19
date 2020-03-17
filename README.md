@@ -23,5 +23,5 @@ Our progress is detailed below. If you would like to provide assistance or requi
 Created prototypes of face shields and mask and submitted a face shield design to Ochsner
 
 ### 3-17-2020
-Uploaded files for [Respirator Style Mask] (https://github.com/scaleworkspace/covid19/blob/master/Disposable%20Mask.zip?raw=true), Disposable Mask, and Eye Shield
+Uploaded files for [Respirator Style Mask] (https://github.com/scaleworkspace/covid19/blob/master/Disposable%20Mask.zip), Disposable Mask, and Eye Shield
 

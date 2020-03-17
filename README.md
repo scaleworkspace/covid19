@@ -7,7 +7,6 @@ Entrescan is a provider of 3D printing services to Scale Workspace.
 
 Scale Workspace and Entrescan have been working on the following initiatives to assist with the local response to the Covid19 pandemic.
 
-Phone call to Martin (Haptech): He said he could work on branding/voiceover for videos and he has video equipment that we could borrow in his office.
 
 ## Medical Initiatives:
 Working an existing consulting agreement with NCAM (The LSU National Center for Advanced Manufacuring: https://lsu.edu/ncam/), the team has been prototyping Personal Protection Equipment (PPE) for Ochnser hospital in anticipation of shortages of critical equipment such as   

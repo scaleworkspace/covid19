@@ -23,5 +23,5 @@ Our progress is detailed below. If you would like to provide assistance or requi
 Created prototypes of face shields and mask and submitted a face shield design to Ochsner
 
 ### 3-17-2020
-
+Uploaded files for Respirator Style Mask, Disposable Mask, and Eye Shield
 

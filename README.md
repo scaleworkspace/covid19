@@ -9,7 +9,7 @@ Scale Workspace and Entrescan have been working on the following initiatives to 
 
 
 ## Medical Initiatives:
-Working an existing consulting agreement with NCAM (The LSU National Center for Advanced Manufacuring: https://lsu.edu/ncam/), the team has been prototyping Personal Protection Equipment (PPE) for Ochnser hospital in anticipation of shortages of critical equipment such as   
+Working an existing consulting agreement with NCAM (The LSU National Center for Advanced Manufacuring: <a href=https://lsu.edu/ncam /a> ), the team has been prototyping Personal Protection Equipment (PPE) for Ochnser hospital in anticipation of shortages of critical equipment such as   
 
 1) Masks / respirators
 2) Face Shields / Eye Guards

@@ -1,7 +1,7 @@
 # Scale Workspace Response to COVID19
 Over the span of four months, the Coronavirus has become an international pandemic. Since March 8th, over 114 cases have been reported in Louisiana with a high concentration in the Greater New Orleans area. As the spread of COVID-19 increases, this virus has had a profound impact on local businesses, healthcare providers, and the community itself.
 
-Despite these setbacks, Scale Workspace and their tenants have stepped up to help flatten the curve. Scale Workspace is a New Orleans co-working space focused on product development, providing companies and individuals access to 3D printers, manufacturing equipment, and design resources. Scale Workspace is (all about) creating innovative products through community assets.
+Despite these setbacks, Scale Workspace and their tenants have stepped up to help flatten the curve. Scale Workspace is a New Orleans co-working space focused on product development, providing companies and individuals access to 3D printers, manufacturing equipment, and design resources. Scale Workspace is all about creating innovative products through community assets.
 
 Entrescan is a provider of 3D printing services to Scale Workspace.
 

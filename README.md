@@ -19,7 +19,7 @@ Our progress is detailed below, and all of our files will be available on our Gi
 ## DISCLAIMER
 Please read this. This is important. We are a community of individuals responding to a community in need. We are providing files and information that we believe will help. Please use this information and these files in the spirit in which they were created: to help, to do good.  
 
-Any information or files provided by Scale Workspace or Entrescan (“we,” “us” or “our”) on this github repository or other websites (the “Sites”) is for general informational purposes only. All information and files on the Sites are provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any files or information on the Sites for any specific medical purpose.
+Any information or files provided by Scale Workspace, Entrescan, Robert Forbes 3D, or the New Curiosity Shop (“we,” “us” or “our”) on this github repository or other websites (the “Sites”) is for general informational purposes only. All information and files on the Sites are provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any files or information on the Sites for any specific medical purpose.
 
 Under no circumstance shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of the Sites or reliance on any information provided on the Sites. Your use of the Sites and your reliance on any information or files hosted on the Sites is solely at your own risk.
 

@@ -27,7 +27,7 @@ Under no circumstance shall we have any liability to you for any loss or damage 
 ## Daily Updates
 
 ### 3-17-2020
-Uploaded files for [Respirator Style Mask](https://github.com/scaleworkspace/covid19/tree/master/DisposableMask?raw=true), [Disposable Mask](https://github.com/scaleworkspace/covid19/blob/master/Disposable%20Mask.zip?raw=true), and [Eye Shield](https://github.com/scaleworkspace/covid19/blob/master/Eye%20Shield.zip?raw=true).
+Uploaded files for [Respirator Style Mask](https://github.com/scaleworkspace/covid19/tree/master/DisposableMask?raw=true), [Disposable Mask](https://github.com/scaleworkspace/covid19/tree/master/DisposableMask?raw=true), and [Eye Shield](https://github.com/scaleworkspace/covid19/blob/master/Eye%20Shield.zip?raw=true).
 
 We also purchased materials to help us produce a short run of disposable goods for Ochsner. The files we are using will be available online through our Github repository. We are currently working on a mask design with replaceable filters that should be available on Thursday.
 

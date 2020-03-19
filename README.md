@@ -26,7 +26,7 @@ Under no circumstance shall we have any liability to you for any loss or damage 
 
 ## Daily Updates
 ### 3-18-2020
-Uploaded files for [Face Shield Frame v2](https://github.com/scaleworkspace/covid19/tree/master/FaceShieldV2.1?raw=true), which includes .stl, .step, .dxf, and renderings. There is also ReadMe instructions for the files.
+Uploaded files for [Face Shield Frame v2](https://github.com/scaleworkspace/covid19/tree/master/Face%20Shield/FaceShieldV2.1), which includes .stl, .step, .dxf, and renderings. There is also ReadMe instructions for the files.
 
 ### 3-17-2020
 Uploaded files for [Respirator Style Mask](https://github.com/scaleworkspace/covid19/tree/master/DisposableMask?raw=true), [Disposable Mask](https://github.com/scaleworkspace/covid19/tree/master/DisposableMask?raw=true), and [Eye Shield](https://github.com/scaleworkspace/covid19/tree/master/EyeShield?raw=true).

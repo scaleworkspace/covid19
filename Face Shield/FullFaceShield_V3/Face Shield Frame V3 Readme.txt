@@ -1,12 +1,12 @@
 Face Shield V3 Readme
 
 You may print Face Shield Frame V3.stl on any 3D printer
-or Laser cut Face Shield Frame V3.dxf using 1/4" acrylic (3/16 should also work)
+or Laser cut Face Shield Frame V3.dxf using 3/16" acrylic (1/4" should also work)
 
-The Face Shield.dxf can be laser cut out of PETG or PC.
-The design is optimized for 1/16" PC, but PC or PETG <1/16" should  also work
+The Face Shield.dxf can be laser cut or cut with a drag knife out of PETG or PC.
+The design is optimized for 1/64" PC, but PC or PETG <1/16" should  also work
 
-This design has been tested with 1/4" acrylic frame and 1/16" PC (3/18/20)
+This design has been tested with 1/4" acrylic frame and 1/64" PC (3/19/20)
 
 Use a rubber band on the back loops to secure the shield to your head
 

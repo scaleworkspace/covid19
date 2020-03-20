@@ -25,6 +25,9 @@ Under no circumstance shall we have any liability to you for any loss or damage 
 
 
 ## Daily Updates
+### 3-19-2020
+Delivered 50 face shields to Ochsner. A product designer reached out about printing a component that allows 4 people to use 1 ventilator, which is now available on our Github page. We’re printing a prototype of that component for Ochsner to use tomorrow (3-20-2020). We’re also working actively with local partners such as Good Wood NOLA to produce large quantities of face shields for Ochsner and other entities who are in need.
+
 ### 3-18-2020
 Uploaded files for [Face Shield Frame v2](https://github.com/scaleworkspace/covid19/tree/master/Face%20Shield/FaceShieldV2.1), which includes .stl, .step, .dxf, and renderings. There is also ReadMe instructions for the files.
 

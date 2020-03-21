@@ -25,7 +25,7 @@ Under no circumstance shall we have any liability to you for any loss or damage 
 
 
 ## Daily Updates
-###3-20-2020
+### 3-20-2020
 
 We’ve updated files on our Github page for the disposable mask and face shield, including a face shield file ideal for using on a CNC router. Robert Forbes 3D is also working with a regional supplier to make 500 face shields for delivery next week. We received feedback from the Ochsner team about the ventilator and are working on an update to allow two people to use 1 ventilator to mimic a hospital environment where only two patients will be in a room.
 
